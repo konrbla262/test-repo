@@ -5,3 +5,4 @@ zmiana04
 zmiana05
 zmiana06
 zmiana07
+naprawa plików
