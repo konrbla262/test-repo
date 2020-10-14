@@ -1,2 +1,7 @@
 zmiana01
+<<<<<<< HEAD
 naprawa plików
+=======
+Dodano asystenta pomocy
+Popraw interfejs graficzny
+>>>>>>> easierApp

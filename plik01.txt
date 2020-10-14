@@ -6,3 +6,6 @@ zmiana05
 zmiana06
 zmiana07
 naprawa plików
+Dodano asystenta pomocy
+Popraw interfejs graficzny
+easierApp

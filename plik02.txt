@@ -1,2 +1,5 @@
 zmiana01
 naprawa plików
+Dodano asystenta pomocy
+Popraw interfejs graficzny
+easierApp
