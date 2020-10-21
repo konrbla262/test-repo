@@ -5,3 +5,4 @@ naprawa plików
 Dodano asystenta pomocy
 Popraw interfejs graficzny
 >>>>>>> easierApp
+zmiana02

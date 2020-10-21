@@ -4,3 +4,4 @@ Dodano asystenta pomocy
 Popraw interfejs graficzny
 easierApp
 zmiana02
+zmiana03
