@@ -10,3 +10,7 @@ Dodano asystenta pomocy
 Popraw interfejs graficzny
 easierApp
 zmiana08
+zmiana09
+zmiana10
+zmiana12
+zmiana13
