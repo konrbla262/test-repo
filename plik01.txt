@@ -14,3 +14,5 @@ zmiana09
 zmiana10
 zmiana12
 zmiana13
+
+
